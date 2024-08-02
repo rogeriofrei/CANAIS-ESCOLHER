@@ -1,0 +1,1072 @@
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT: A BOLA TV
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780254
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="PORTUGAL",PT: AXN
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780256
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780257
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="" group-title="PORTUGAL",PT: AXN WHITE
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780258
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780261
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780262
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780272
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT: CRIME & INVESTIGATION
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780274
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780275
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780276
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780282
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780283
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780284
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780285
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780286
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780287
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780289
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780290
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780291
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX TV" tvg-logo="" group-title="PORTUGAL",PT: FOX TV
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780292
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PORTUGAL",PT: HISTORIA
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780293
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780294
+#EXTINF:-1 tvg-id="" tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT: INVESTIGATION DISCOVERY
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780295
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780297
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO WILD
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780303
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780304
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780308
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780312
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780329
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780331
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780332
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780333
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780334
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="PORTUGAL",PT: Sport TV 6
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGAL",PT: SYFY
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780339
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780341
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO" tvg-logo="" group-title="PORTUGAL",PT: TV GLOBO
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780343
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="PORTUGAL",PT: TV RECORD
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780344
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1" tvg-logo="" group-title="PORTUGAL",PT: VH1
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780353
+#EXTINF:-1,PT: A BOLA TV
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780254
+#EXTINF:-1,PT: AXN
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780256
+#EXTINF:-1,PT: AXN BLACK
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780257
+#EXTINF:-1,PT: AXN WHITE
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780258
+#EXTINF:-1,PT: BENFICA TV
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780260
+#EXTINF:-1,PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780261
+#EXTINF:-1,PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780262
+#EXTINF:-1,PT: CINEMUNDO
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780272
+#EXTINF:-1,PT: CRIME & INVESTIGATION
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780274
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780275
+#EXTINF:-1,PT: DISCOVERY SHOWCASE
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780276
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780277
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780280
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780281
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780282
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780283
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780284
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780285
+#EXTINF:-1,PT: EUROSPORT
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780286
+#EXTINF:-1,PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780287
+#EXTINF:-1,PT: FOX COMEDY
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780289
+#EXTINF:-1,PT: FOX CRIME
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780290
+#EXTINF:-1,PT: FOX LIFE
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780291
+#EXTINF:-1,PT: FOX TV
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780292
+#EXTINF:-1,PT: HISTORIA
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780293
+#EXTINF:-1,PT: HOLLYWOOD
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780294
+#EXTINF:-1,PT: INVESTIGATION DISCOVERY
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780295
+#EXTINF:-1,PT: KOMBAT SPORT
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780297
+#EXTINF:-1,PT: NAT GEO WILD
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780303
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780304
+#EXTINF:-1,PT: NOS STUDIOS
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780307
+#EXTINF:-1,PT: ODISSEIA
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780308
+#EXTINF:-1,PT: REAL MADRID TV
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780312
+#EXTINF:-1,PT: SPORT TV 1
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780328
+#EXTINF:-1,PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780329
+#EXTINF:-1,PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780330
+#EXTINF:-1,PT: SPORT TV 2
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780331
+#EXTINF:-1,PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780332
+#EXTINF:-1,PT: SPORT TV 3
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780333
+#EXTINF:-1,PT: SPORT TV 4
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780334
+#EXTINF:-1,PT: SPORT TV 5
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780335
+#EXTINF:-1,PT: Sport TV 6
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780336
+#EXTINF:-1,PT: SYFY
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780339
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780341
+#EXTINF:-1,PT: TV GLOBO
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780343
+#EXTINF:-1,PT: TV RECORD
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780344
+#EXTINF:-1,PT: TV SERIES
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780345
+#EXTINF:-1,PT: TVCINE 1
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780346
+#EXTINF:-1,PT: TVCINE 2
+http://likea8bitboss.xyz:80/Valleyh/9845201763/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT: A BOLA TV
+http://likea8bitboss.xyz:80/BradB/11162021/780254
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="PORTUGAL",PT: AXN
+http://likea8bitboss.xyz:80/BradB/11162021/780256
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK
+http://likea8bitboss.xyz:80/BradB/11162021/780257
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="" group-title="PORTUGAL",PT: AXN WHITE
+http://likea8bitboss.xyz:80/BradB/11162021/780258
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
+http://likea8bitboss.xyz:80/BradB/11162021/780260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/BradB/11162021/780261
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/BradB/11162021/780262
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO
+http://likea8bitboss.xyz:80/BradB/11162021/780272
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT: CRIME & INVESTIGATION
+http://likea8bitboss.xyz:80/BradB/11162021/780274
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/BradB/11162021/780275
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE
+http://likea8bitboss.xyz:80/BradB/11162021/780276
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/BradB/11162021/780280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/BradB/11162021/780281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/BradB/11162021/780282
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/BradB/11162021/780283
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/BradB/11162021/780284
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/BradB/11162021/780285
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT
+http://likea8bitboss.xyz:80/BradB/11162021/780286
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/BradB/11162021/780287
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
+http://likea8bitboss.xyz:80/BradB/11162021/780289
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME
+http://likea8bitboss.xyz:80/BradB/11162021/780290
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE
+http://likea8bitboss.xyz:80/BradB/11162021/780291
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX TV" tvg-logo="" group-title="PORTUGAL",PT: FOX TV
+http://likea8bitboss.xyz:80/BradB/11162021/780292
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PORTUGAL",PT: HISTORIA
+http://likea8bitboss.xyz:80/BradB/11162021/780293
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD
+http://likea8bitboss.xyz:80/BradB/11162021/780294
+#EXTINF:-1 tvg-id="" tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT: INVESTIGATION DISCOVERY
+http://likea8bitboss.xyz:80/BradB/11162021/780295
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://likea8bitboss.xyz:80/BradB/11162021/780297
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO WILD
+http://likea8bitboss.xyz:80/BradB/11162021/780303
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://likea8bitboss.xyz:80/BradB/11162021/780304
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://likea8bitboss.xyz:80/BradB/11162021/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA
+http://likea8bitboss.xyz:80/BradB/11162021/780308
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV
+http://likea8bitboss.xyz:80/BradB/11162021/780312
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+http://likea8bitboss.xyz:80/BradB/11162021/780328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/BradB/11162021/780329
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/BradB/11162021/780330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+http://likea8bitboss.xyz:80/BradB/11162021/780331
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/BradB/11162021/780332
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://likea8bitboss.xyz:80/BradB/11162021/780333
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+http://likea8bitboss.xyz:80/BradB/11162021/780334
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+http://likea8bitboss.xyz:80/BradB/11162021/780335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="PORTUGAL",PT: Sport TV 6
+http://likea8bitboss.xyz:80/BradB/11162021/780336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGAL",PT: SYFY
+http://likea8bitboss.xyz:80/BradB/11162021/780339
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://likea8bitboss.xyz:80/BradB/11162021/780341
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO" tvg-logo="" group-title="PORTUGAL",PT: TV GLOBO
+http://likea8bitboss.xyz:80/BradB/11162021/780343
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="PORTUGAL",PT: TV RECORD
+http://likea8bitboss.xyz:80/BradB/11162021/780344
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://likea8bitboss.xyz:80/BradB/11162021/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://likea8bitboss.xyz:80/BradB/11162021/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://likea8bitboss.xyz:80/BradB/11162021/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT: A BOLA TV
+http://likea8bitboss.xyz:80/BG/BGBG/780254
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="PORTUGAL",PT: AXN
+http://likea8bitboss.xyz:80/BG/BGBG/780256
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK
+http://likea8bitboss.xyz:80/BG/BGBG/780257
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="" group-title="PORTUGAL",PT: AXN WHITE
+http://likea8bitboss.xyz:80/BG/BGBG/780258
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
+http://likea8bitboss.xyz:80/BG/BGBG/780260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/BG/BGBG/780261
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/BG/BGBG/780262
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO
+http://likea8bitboss.xyz:80/BG/BGBG/780272
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT: CRIME & INVESTIGATION
+http://likea8bitboss.xyz:80/BG/BGBG/780274
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/BG/BGBG/780275
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE
+http://likea8bitboss.xyz:80/BG/BGBG/780276
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/BG/BGBG/780280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/BG/BGBG/780281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/BG/BGBG/780282
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/BG/BGBG/780283
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/BG/BGBG/780284
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/BG/BGBG/780285
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT
+http://likea8bitboss.xyz:80/BG/BGBG/780286
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/BG/BGBG/780287
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
+http://likea8bitboss.xyz:80/BG/BGBG/780289
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME
+http://likea8bitboss.xyz:80/BG/BGBG/780290
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE
+http://likea8bitboss.xyz:80/BG/BGBG/780291
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX TV" tvg-logo="" group-title="PORTUGAL",PT: FOX TV
+http://likea8bitboss.xyz:80/BG/BGBG/780292
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PORTUGAL",PT: HISTORIA
+http://likea8bitboss.xyz:80/BG/BGBG/780293
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD
+http://likea8bitboss.xyz:80/BG/BGBG/780294
+#EXTINF:-1 tvg-id="" tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT: INVESTIGATION DISCOVERY
+http://likea8bitboss.xyz:80/BG/BGBG/780295
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://likea8bitboss.xyz:80/BG/BGBG/780297
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO WILD
+http://likea8bitboss.xyz:80/BG/BGBG/780303
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://likea8bitboss.xyz:80/BG/BGBG/780304
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://likea8bitboss.xyz:80/BG/BGBG/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA
+http://likea8bitboss.xyz:80/BG/BGBG/780308
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV
+http://likea8bitboss.xyz:80/BG/BGBG/780312
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+http://likea8bitboss.xyz:80/BG/BGBG/780328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/BG/BGBG/780329
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/BG/BGBG/780330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+http://likea8bitboss.xyz:80/BG/BGBG/780331
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/BG/BGBG/780332
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://likea8bitboss.xyz:80/BG/BGBG/780333
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+http://likea8bitboss.xyz:80/BG/BGBG/780334
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+http://likea8bitboss.xyz:80/BG/BGBG/780335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="PORTUGAL",PT: Sport TV 6
+http://likea8bitboss.xyz:80/BG/BGBG/780336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGAL",PT: SYFY
+http://likea8bitboss.xyz:80/BG/BGBG/780339
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://likea8bitboss.xyz:80/BG/BGBG/780341
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO" tvg-logo="" group-title="PORTUGAL",PT: TV GLOBO
+http://likea8bitboss.xyz:80/BG/BGBG/780343
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="PORTUGAL",PT: TV RECORD
+http://likea8bitboss.xyz:80/BG/BGBG/780344
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://likea8bitboss.xyz:80/BG/BGBG/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://likea8bitboss.xyz:80/BG/BGBG/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://likea8bitboss.xyz:80/BG/BGBG/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT: A BOLA TV
+http://likea8bitboss.xyz:80/Bengals/2847961350/780254
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="PORTUGAL",PT: AXN
+http://likea8bitboss.xyz:80/Bengals/2847961350/780256
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK
+http://likea8bitboss.xyz:80/Bengals/2847961350/780257
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="" group-title="PORTUGAL",PT: AXN WHITE
+http://likea8bitboss.xyz:80/Bengals/2847961350/780258
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
+http://likea8bitboss.xyz:80/Bengals/2847961350/780260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/Bengals/2847961350/780261
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/Bengals/2847961350/780262
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO
+http://likea8bitboss.xyz:80/Bengals/2847961350/780272
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT: CRIME & INVESTIGATION
+http://likea8bitboss.xyz:80/Bengals/2847961350/780274
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/Bengals/2847961350/780275
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE
+http://likea8bitboss.xyz:80/Bengals/2847961350/780276
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/Bengals/2847961350/780280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/Bengals/2847961350/780281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/Bengals/2847961350/780282
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/Bengals/2847961350/780283
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/Bengals/2847961350/780284
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/Bengals/2847961350/780285
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT
+http://likea8bitboss.xyz:80/Bengals/2847961350/780286
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/Bengals/2847961350/780287
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
+http://likea8bitboss.xyz:80/Bengals/2847961350/780289
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME
+http://likea8bitboss.xyz:80/Bengals/2847961350/780290
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE
+http://likea8bitboss.xyz:80/Bengals/2847961350/780291
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX TV" tvg-logo="" group-title="PORTUGAL",PT: FOX TV
+http://likea8bitboss.xyz:80/Bengals/2847961350/780292
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PORTUGAL",PT: HISTORIA
+http://likea8bitboss.xyz:80/Bengals/2847961350/780293
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD
+http://likea8bitboss.xyz:80/Bengals/2847961350/780294
+#EXTINF:-1 tvg-id="" tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT: INVESTIGATION DISCOVERY
+http://likea8bitboss.xyz:80/Bengals/2847961350/780295
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://likea8bitboss.xyz:80/Bengals/2847961350/780297
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO WILD
+http://likea8bitboss.xyz:80/Bengals/2847961350/780303
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://likea8bitboss.xyz:80/Bengals/2847961350/780304
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://likea8bitboss.xyz:80/Bengals/2847961350/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA
+http://likea8bitboss.xyz:80/Bengals/2847961350/780308
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV
+http://likea8bitboss.xyz:80/Bengals/2847961350/780312
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+http://likea8bitboss.xyz:80/Bengals/2847961350/780328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/Bengals/2847961350/780329
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/Bengals/2847961350/780330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+http://likea8bitboss.xyz:80/Bengals/2847961350/780331
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/Bengals/2847961350/780332
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://likea8bitboss.xyz:80/Bengals/2847961350/780333
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+http://likea8bitboss.xyz:80/Bengals/2847961350/780334
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+http://likea8bitboss.xyz:80/Bengals/2847961350/780335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="PORTUGAL",PT: Sport TV 6
+http://likea8bitboss.xyz:80/Bengals/2847961350/780336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGAL",PT: SYFY
+http://likea8bitboss.xyz:80/Bengals/2847961350/780339
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://likea8bitboss.xyz:80/Bengals/2847961350/780341
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO" tvg-logo="" group-title="PORTUGAL",PT: TV GLOBO
+http://likea8bitboss.xyz:80/Bengals/2847961350/780343
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="PORTUGAL",PT: TV RECORD
+http://likea8bitboss.xyz:80/Bengals/2847961350/780344
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://likea8bitboss.xyz:80/Bengals/2847961350/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://likea8bitboss.xyz:80/Bengals/2847961350/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://likea8bitboss.xyz:80/Bengals/2847961350/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT: A BOLA TV
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780254
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="PORTUGAL",PT: AXN
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780256
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780257
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="" group-title="PORTUGAL",PT: AXN WHITE
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780258
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780261
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780262
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780272
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT: CRIME & INVESTIGATION
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780274
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780275
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780276
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780282
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780283
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780284
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780285
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780286
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780287
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780289
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780290
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780291
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX TV" tvg-logo="" group-title="PORTUGAL",PT: FOX TV
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780292
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PORTUGAL",PT: HISTORIA
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780293
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780294
+#EXTINF:-1 tvg-id="" tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT: INVESTIGATION DISCOVERY
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780295
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780297
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO WILD
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780303
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780304
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780308
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780312
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780329
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780331
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780332
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780333
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780334
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="PORTUGAL",PT: Sport TV 6
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGAL",PT: SYFY
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780339
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780341
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO" tvg-logo="" group-title="PORTUGAL",PT: TV GLOBO
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780343
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="PORTUGAL",PT: TV RECORD
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780344
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://likea8bitboss.xyz:80/BBShopss/9502173864/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT: A BOLA TV
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780254
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="PORTUGAL",PT: AXN
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780256
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780257
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="" group-title="PORTUGAL",PT: AXN WHITE
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780258
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780261
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780262
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780272
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT: CRIME & INVESTIGATION
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780274
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780275
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780276
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780282
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780283
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780284
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780285
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780286
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780287
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780289
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780290
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780291
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX TV" tvg-logo="" group-title="PORTUGAL",PT: FOX TV
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780292
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PORTUGAL",PT: HISTORIA
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780293
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780294
+#EXTINF:-1 tvg-id="" tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT: INVESTIGATION DISCOVERY
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780295
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780297
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO WILD
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780303
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780304
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780308
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780312
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780329
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780331
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780332
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780333
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780334
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="PORTUGAL",PT: Sport TV 6
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGAL",PT: SYFY
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780339
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780341
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO" tvg-logo="" group-title="PORTUGAL",PT: TV GLOBO
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780343
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="PORTUGAL",PT: TV RECORD
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780344
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://likea8bitboss.xyz:80/Babyboy1/XZU0cBFHUP/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT: A BOLA TV
+http://likea8bitboss.xyz:80/Assclub/4731602859/780254
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="PORTUGAL",PT: AXN
+http://likea8bitboss.xyz:80/Assclub/4731602859/780256
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK
+http://likea8bitboss.xyz:80/Assclub/4731602859/780257
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="" group-title="PORTUGAL",PT: AXN WHITE
+http://likea8bitboss.xyz:80/Assclub/4731602859/780258
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
+http://likea8bitboss.xyz:80/Assclub/4731602859/780260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/Assclub/4731602859/780261
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/Assclub/4731602859/780262
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO
+http://likea8bitboss.xyz:80/Assclub/4731602859/780272
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT: CRIME & INVESTIGATION
+http://likea8bitboss.xyz:80/Assclub/4731602859/780274
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/Assclub/4731602859/780275
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE
+http://likea8bitboss.xyz:80/Assclub/4731602859/780276
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/Assclub/4731602859/780280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/Assclub/4731602859/780281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/Assclub/4731602859/780282
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/Assclub/4731602859/780283
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/Assclub/4731602859/780284
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/Assclub/4731602859/780285
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT
+http://likea8bitboss.xyz:80/Assclub/4731602859/780286
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/Assclub/4731602859/780287
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
+http://likea8bitboss.xyz:80/Assclub/4731602859/780289
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME
+http://likea8bitboss.xyz:80/Assclub/4731602859/780290
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE
+http://likea8bitboss.xyz:80/Assclub/4731602859/780291
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX TV" tvg-logo="" group-title="PORTUGAL",PT: FOX TV
+http://likea8bitboss.xyz:80/Assclub/4731602859/780292
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PORTUGAL",PT: HISTORIA
+http://likea8bitboss.xyz:80/Assclub/4731602859/780293
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD
+http://likea8bitboss.xyz:80/Assclub/4731602859/780294
+#EXTINF:-1 tvg-id="" tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT: INVESTIGATION DISCOVERY
+http://likea8bitboss.xyz:80/Assclub/4731602859/780295
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://likea8bitboss.xyz:80/Assclub/4731602859/780297
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO WILD
+http://likea8bitboss.xyz:80/Assclub/4731602859/780303
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+http://likea8bitboss.xyz:80/Assclub/4731602859/780304
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://likea8bitboss.xyz:80/Assclub/4731602859/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA
+http://likea8bitboss.xyz:80/Assclub/4731602859/780308
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV
+http://likea8bitboss.xyz:80/Assclub/4731602859/780312
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+http://likea8bitboss.xyz:80/Assclub/4731602859/780328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/Assclub/4731602859/780329
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/Assclub/4731602859/780330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+http://likea8bitboss.xyz:80/Assclub/4731602859/780331
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/Assclub/4731602859/780332
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://likea8bitboss.xyz:80/Assclub/4731602859/780333
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+http://likea8bitboss.xyz:80/Assclub/4731602859/780334
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+http://likea8bitboss.xyz:80/Assclub/4731602859/780335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="PORTUGAL",PT: Sport TV 6
+http://likea8bitboss.xyz:80/Assclub/4731602859/780336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGAL",PT: SYFY
+http://likea8bitboss.xyz:80/Assclub/4731602859/780339
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+http://likea8bitboss.xyz:80/Assclub/4731602859/780341
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO" tvg-logo="" group-title="PORTUGAL",PT: TV GLOBO
+http://likea8bitboss.xyz:80/Assclub/4731602859/780343
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="PORTUGAL",PT: TV RECORD
+http://likea8bitboss.xyz:80/Assclub/4731602859/780344
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://likea8bitboss.xyz:80/Assclub/4731602859/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://likea8bitboss.xyz:80/Assclub/4731602859/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://likea8bitboss.xyz:80/Assclub/4731602859/780347
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA" tvg-logo="" group-title="PORTUGAL",PT: ZAP VIVA
+http://likea8bitboss.xyz:80/ArqilePipa/2794503861/780354
